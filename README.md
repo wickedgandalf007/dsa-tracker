@@ -5,13 +5,13 @@
 ## 📊 Progress
 
 ```
-Roadmap  [░░░░░░░░░░░░░░░░░░░░] 0%  •  0/176 problems
+Roadmap  [░░░░░░░░░░░░░░░░░░░░] 1%  •  1/176 problems
 ```
 
 | | |
 |-|-|
-| ✅ Total solved | **0** (0 roadmap · 0 extra) |
-| 🔥 Current streak | **0 days** |
+| ✅ Total solved | **1** (1 roadmap · 0 extra) |
+| 🔥 Current streak | **1 day** |
 | 📅 Last updated | 2026-03-08 |
 
 ---
@@ -33,11 +33,11 @@ Roadmap  [░░░░░░░░░░░░░░░░░░░░] 0%  • 
 
 ## 🟢 Phase 1: Arrays, Patterns & Binary Search
 
-**0/41 · 0%**
+**1/41 · 2%**
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 1 | Arrays Deep Dive + Language Setup | ⬜ |
+| Day 1 | Arrays Deep Dive + Language Setup | 🔄 1/4 |
 | Day 2 | Two Pointer Pattern | ⬜ |
 | Day 3 | Sliding Window Pattern | ⬜ |
 | Day 4 | Hash Maps + Prefix + Intervals | ⬜ |
@@ -119,4 +119,12 @@ Roadmap  [░░░░░░░░░░░░░░░░░░░░] 0%  • 
 | Day 45 | Final Mock + Mental Prep | ⬜ |
 
 ---
-*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 08 Mar 2026 09:08:45 GMT*
+
+## 📝 Solution Log
+
+| # | Problem | Diff | Day | Date | Runtime |
+|---|---------|------|-----|------|---------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Day 1 | 2026-03-08 | 4 |
+
+---
+*Auto-synced by [DSA Tracker](http://localhost:3000) · Sun, 08 Mar 2026 09:10:24 GMT*
